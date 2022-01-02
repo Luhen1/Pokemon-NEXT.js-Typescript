@@ -5,7 +5,7 @@ export const getRandomPokemon: (notThisOne?: number) => number = (notThisOne) =>
 
   if (pokedexNumber !== notThisOne) return pokedexNumber;
   return getRandomPokemon(notThisOne);
-};
+}; 
 
 export const getOptionsForVote = () => {
     const firstId = getRandomPokemon();
