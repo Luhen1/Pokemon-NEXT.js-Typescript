@@ -1,0 +1,12 @@
+nextjs
+react
+vercel
+tRPC - alt to rest and grpahql
+prisma
+Tailwind css
+postCSS
+planetscale
+
+excalidraw - for drawing 
+
+init.tips
